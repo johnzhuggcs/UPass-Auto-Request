@@ -1,0 +1,6 @@
+{
+"manifest_version": 2,
+"name":"UForgot",
+"version":"0.1",
+"description": "Automatically loads UPass information every month"
+}
